@@ -23,6 +23,7 @@ env:
   ATHLETE: lichuang
   TITLE: lichuang Running
   TITLE_GRID: Over 10km Runs
+  MIN_GRID_DISTANCE: 0.5
   GITHUB_NAME: lichuang
   GITHUB_EMAIL: lichuang1982@gmail.com
 
