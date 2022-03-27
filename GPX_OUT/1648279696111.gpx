@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <trkseg>
+      <trkpt lat="22.96541868255146" lon="113.31990993192098">
+        <ele>25.58449588644505</ele>
+        <time>2022-03-26T07:26:55.089000Z</time>
+      </trkpt>
+      <trkpt lat="22.96546813506009" lon="113.3199188324233">
+        <ele>25.57908448430283</ele>
+        <time>2022-03-26T07:26:56.088000Z</time>
+      </trkpt>
+      <trkpt lat="22.96556415991983" lon="113.3199389388018">
+        <ele>25.590166526815867</ele>
+        <time>2022-03-26T07:26:59.088000Z</time>
+      </trkpt>
+      <trkpt lat="22.96566347456246" lon="113.31992712546165">
+        <ele>25.737512350223625</ele>
+        <time>2022-03-26T07:27:04.954000Z</time>
+      </trkpt>
+      <trkpt lat="22.96575447075109" lon="113.31992492189342">
+        <ele>25.846994468942285</ele>
+        <time>2022-03-26T07:27:08.964000Z</time>
+      </trkpt>
+      <trkpt lat="22.965847236910797" lon="113.31993558466672">
+        <ele>25.56524672359228</ele>
+        <time>2022-03-26T07:27:12.973000Z</time>
+      </trkpt>
+      <trkpt lat="22.965941589382826" lon="113.31994230229695">
+        <ele>25.523157332092524</ele>
+        <time>2022-03-26T07:27:16.979000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>97</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="22.96603790386667" lon="113.31992517079388">
+        <ele>25.68912236019969</ele>
+        <time>2022-03-26T07:27:20.984000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>99</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="22.966158171436575" lon="113.31987843039528">
+        <ele>26.043114052154124</ele>
+        <time>2022-03-26T07:27:25.989000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>101</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="22.966265966075245" lon="113.31985585036456">
+        <ele>28.31939450930804</ele>
+        <time>2022-03-26T07:27:30.992000Z</time>
+      </trkpt>
+      <trkpt lat="22.966358803918137" lon="113.31986345085211">
+        <ele>25.455420672893524</ele>
+        <time>2022-03-26T07:27:34.994000Z</time>
+      </trkpt>
+      <trkpt lat="22.966454592992964" lon="113.31986051768607">
+        <ele>27.347269425168633</ele>
+        <time>2022-03-26T07:27:38.996000Z</time>
+      </trkpt>
+      <trkpt lat="22.966974148896945" lon="113.31988514778739">
+        <ele>23.592418000102043</ele>
+        <time>2022-03-26T07:28:11.001000Z</time>
+      </trkpt>
+      <trkpt lat="22.966970045943462" lon="113.31988866769312">
+        <time>2022-03-26T07:28:13.216000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
