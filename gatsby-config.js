@@ -1,5 +1,9 @@
 module.exports = {
+<<<<<<< HEAD
   pathPrefix: `/running_page`, // Change to `/running_page` when running on github pages
+=======
+  pathPrefix: '/', // Change to `/running_page` when running on github pages
+>>>>>>> upstream/master
   siteMetadata: {
     siteTitle: 'Running Page',
     siteUrl: 'https://www.codedump.info/running_page/',
@@ -57,7 +61,12 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-sass',
       options: {
-        precision: 8,
+        cssLoaderOptions: {
+          esModule: false,
+          modules: {
+            namedExport: false,
+          },
+        },
       },
     },
     {
