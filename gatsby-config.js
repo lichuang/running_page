@@ -1,9 +1,5 @@
 module.exports = {
-<<<<<<< HEAD
-  pathPrefix: `/running_page`, // Change to `/running_page` when running on github pages
-=======
   pathPrefix: '/', // Change to `/running_page` when running on github pages
->>>>>>> upstream/master
   siteMetadata: {
     siteTitle: 'Running Page',
     siteUrl: 'https://www.codedump.info/running_page/',
