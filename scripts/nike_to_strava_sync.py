@@ -77,8 +77,12 @@ if __name__ == "__main__":
                 "too many gpx files to upload, will upload 10, because of the rate limit"
             )
             new_gpx_files = new_gpx_files[:10]
+        i = 0
         for f in new_gpx_files:
             upload_gpx(client, f)
+            i += 1
+            if i % 10 == 0:
+              time.sleep(2)  # just wait
 
     time.sleep(
         10
