@@ -81,8 +81,7 @@ if __name__ == "__main__":
         for f in new_gpx_files:
             upload_gpx(client, f)
             i += 1
-            if i % 10 == 0:
-              time.sleep(2)  # just wait
+            time.sleep(2)  # just wait
 
     time.sleep(
         10
