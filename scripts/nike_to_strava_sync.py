@@ -78,10 +78,12 @@ if __name__ == "__main__":
             )
             new_gpx_files = new_gpx_files[:10]
         i = 0
+        print("upload_gpx len", len(new_gpx_files))
         for f in new_gpx_files:
             upload_gpx(client, f)
             i += 1
             time.sleep(2)  # just wait
+            print("upload_gpx", i)
 
     time.sleep(
         10
